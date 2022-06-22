@@ -21,6 +21,7 @@ Create a conda environment using the provided [environment.yml](./environment.ym
 
 ```bash
 conda env create -n spots2reciprocal --file environment.yml
+conda activate spots2reciprocal
 ```
 
 ## Usage
